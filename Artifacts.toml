@@ -5,7 +5,7 @@ libc = "glibc"
 os = "linux"
 
     [[LibTAPITblgen.download]]
-    sha256 = "56ae5429cf3aae206fbba2b593812665d057e7b5621d281788f5479891088c28"
+    sha256 = "4874231a1e3f3abba4f1c2a36ca82b59ca326f1877ab215da6e628004f67ee2a"
     url = "https://github.com/staticfloat/LibTAPITblgen_jll.jl/releases/download/v1300.6.0-GCCBootstrap-x86_64-linux-gnu/LibTAPITblgen-v1300.6.0-x86_64-linux-gnu.tar.gz"
 
 [[LibTAPITblgen-build_log]]
@@ -16,7 +16,7 @@ libc = "glibc"
 os = "linux"
 
     [[LibTAPITblgen-build_log.download]]
-    sha256 = "65c6a091a455c890e08a740b7fa133da10e0736a124ccd39972295bbfefe91a2"
+    sha256 = "d97e604eebf8d431f22a8b68f08c90879bf380aacd695e4e870c52890b9fc5c6"
     url = "https://github.com/staticfloat/LibTAPITblgen_jll.jl/releases/download/v1300.6.0-GCCBootstrap-x86_64-linux-gnu/LibTAPITblgen-build_log-v1300.6.0-x86_64-linux-gnu.tar.gz"
 
 [[LibTAPITblgen-extract_log]]
@@ -27,5 +27,5 @@ libc = "glibc"
 os = "linux"
 
     [[LibTAPITblgen-extract_log.download]]
-    sha256 = "33dadb4d8bd091a146f5c55fb6a613b9d89b916e8295747d988927e671d20208"
+    sha256 = "92ad3f453ddb37e820c4c106144e88b1b4916e1e2e4c8664e38b22c028d72265"
     url = "https://github.com/staticfloat/LibTAPITblgen_jll.jl/releases/download/v1300.6.0-GCCBootstrap-x86_64-linux-gnu/LibTAPITblgen-extract_log-v1300.6.0-x86_64-linux-gnu.tar.gz"
