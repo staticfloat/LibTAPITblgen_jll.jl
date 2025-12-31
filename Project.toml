@@ -1,6 +1,6 @@
 name = "LibTAPITblgen_jll"
 uuid = "9b03e9bf-577b-5f07-8d98-531d83fa4a08"
-version = "1300.6.0"
+version = "1300.6.1"
 
 [deps]
 Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
