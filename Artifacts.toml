@@ -1,0 +1,31 @@
+[[LibTAPITblgen]]
+arch = "x86_64"
+git-tree-sha1 = "912feebf125d8dc10cfa41b4e3bcf159a3beb615"
+libc = "glibc"
+os = "linux"
+
+    [[LibTAPITblgen.download]]
+    sha256 = "65595c62a84c980d8caf2105758da82d415fa8c7093bdf878a22c7749533c45c"
+    url = "https://github.com/staticfloat/LibTAPITblgen_jll.jl/releases/download/v1300.6.0-GCCBootstrap-x86_64-linux-gnu/LibTAPITblgen-v1300.6.0-x86_64-linux-gnu.tar.gz"
+
+[[LibTAPITblgen-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "f505e19077016d6d6dad6a55cd321260982d6494"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LibTAPITblgen-build_log.download]]
+    sha256 = "78167cb066c8442232e4337082fa126dd03eab57207a67ed8a39a499569da4f6"
+    url = "https://github.com/staticfloat/LibTAPITblgen_jll.jl/releases/download/v1300.6.0-GCCBootstrap-x86_64-linux-gnu/LibTAPITblgen-build_log-v1300.6.0-x86_64-linux-gnu.tar.gz"
+
+[[LibTAPITblgen-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "1af39c41ad4e2a8db216f8ab13d8307dfa8bcb2c"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LibTAPITblgen-extract_log.download]]
+    sha256 = "343c95d282601825ae29d3c635477eb4223a96280344c73684ab353eab6d78e5"
+    url = "https://github.com/staticfloat/LibTAPITblgen_jll.jl/releases/download/v1300.6.0-GCCBootstrap-x86_64-linux-gnu/LibTAPITblgen-extract_log-v1300.6.0-x86_64-linux-gnu.tar.gz"
